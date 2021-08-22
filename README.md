@@ -10,10 +10,14 @@ install this plugin for eslint support https://marketplace.visualstudio.com/item
 
 install this plugin for support of postcss (tailwindcss) https://marketplace.visualstudio.com/items?itemName=csstools.postcss
 
+## Configuring Alias
+
+you can configure your alias for the imports in `tsconfig.paths.json` file
+
 ## Run The App
 
 from the project root run `yarn start`
 
-## Configuring Alias
+## Build The App
 
-you can configure your alias for the imports in `tsconfig.paths.json` file
+from the project root run `yarn build`
